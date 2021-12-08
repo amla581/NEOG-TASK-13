@@ -5,9 +5,6 @@ App which checks whether your birthday is a palindrome birthday & if not let's y
 # Youtube Lesson
 https://www.youtube.com/watch?v=8rqZ524NzaQ
 
-# Problem Statement
-https://github.com/neogcamp/build/blob/main/basics/palindrome-birthdays.md
-
 # How to use:
       1.Enter your birth date & click on Enter
       2.Output will be shown below the button after its calculated.
